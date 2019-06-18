@@ -1,0 +1,47 @@
+body { /* Задний фон  */
+				background: url(918482.jpg) no-repeat center center fixed;
+				background-color: black;
+				background-size: cover;
+			}
+  			a {
+   				color: #e3625b; /* Цвет ссылок */
+   				padding: 2px; /* Поля вокруг текста */
+   				text-decoration: none;
+   			}
+  			a:visited {
+		    	color: #e3625b; /* Цвет посещенных ссылок */
+		   }
+  			a:hover {
+    			color: #b01717; /* Цвет ссылки при наведении на нее курсора мыши */   
+    			background: #; /* Цвет фона */
+    		}
+
+
+  .menu {
+    position: fixed; /* Фиксированное положение */
+    left: 10px; /* Расстояние от правого края окна браузера */
+    top: 91%; /* Расстояние сверху */
+  }
+
+  .menus {
+    position: fixed; /* Фиксированное положение */
+    left: 10px; /* Расстояние от правого края окна браузера */
+    top: 98%; /* Расстояние сверху */
+  }
+
+  .colorwrite{
+    color: #ffffff;
+}
+        a {
+          color: #000000; /* Цвет ссылок */
+          padding: 2px; /* Поля вокруг текста */
+          text-decoration: none;
+        }
+        a:visited {
+          color: #000000; /* Цвет посещенных ссылок */
+       }
+        a:hover {
+          color: #b01717; /* Цвет ссылки при наведении на нее курсора мыши */   
+          background: #; /* Цвет фона */
+        }
+
